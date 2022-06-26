@@ -2078,7 +2078,7 @@ input, select, textarea {
 			}
 
 		#header .icons {
-			font-size: 1.0em;
+			font-size: 1.2em;
 			text-align: center;
 		}
 
@@ -2163,7 +2163,7 @@ input, select, textarea {
 					}
 
 				#nav ul li a.active {
-					background: rgba(0, 0, 0, 0.15);
+					background: rgba(99, 108, 115, 0.3);
 					box-shadow: inset 0 0 0.25em 0 rgba(0, 0, 0, 0.125);
 					color: #fff;
 				}
